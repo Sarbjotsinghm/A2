@@ -14,6 +14,8 @@
 Other than github and sourcetree, I intorduced with some braching and merging features which we will be going to do upnext in this course.
 
 ### 📫 How to reach me?
--
+- [Twitter](https://twitter.com/sarb_mann8) 
+- [LinkedIn](https://www.linkedin.com/in/sarbjot-singh-8050a7222/) 
+- [Instagram](https://www.instagram.com/sarbmann8/) 
 
 
